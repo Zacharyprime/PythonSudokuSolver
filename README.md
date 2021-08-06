@@ -2,7 +2,7 @@
 I was testing out Jupyter on a Wombat and made this program for fun.
 If you have some project that you could use this for, or just need help solving your sudoku, feel free to use and distribute however you like.
 
-Just make a list representing the sudoku puzzle and then do Solve(<list>)
+Just make a list representing the sudoku puzzle and then do Solve(listName)
 
 Example that is used in the program:
 
